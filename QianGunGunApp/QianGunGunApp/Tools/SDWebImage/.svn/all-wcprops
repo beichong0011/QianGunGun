@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage
+END
+NSData+ImageContentType.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/NSData+ImageContentType.m
+END
+MKAnnotationView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/MKAnnotationView+WebCache.h
+END
+SDWebImageDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/SDWebImageDownloader.m
+END
+SDWebImageDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/SDWebImageDecoder.h
+END
+SDImageCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/SDImageCache.h
+END
+MKAnnotationView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/MKAnnotationView+WebCache.m
+END
+SDWebImageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/SDWebImageManager.h
+END
+SDWebImageDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/SDWebImageDecoder.m
+END
+SDImageCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/SDImageCache.m
+END
+UIButton+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/UIButton+WebCache.h
+END
+SDWebImageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/SDWebImageManager.m
+END
+SDWebImageDownloaderOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/SDWebImageDownloaderOperation.h
+END
+UIImageView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/UIImageView+WebCache.h
+END
+UIImage+WebP.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/UIImage+WebP.h
+END
+SDWebImageCompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/SDWebImageCompat.h
+END
+UIButton+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/UIButton+WebCache.m
+END
+SDWebImageDownloaderOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/SDWebImageDownloaderOperation.m
+END
+UIImageView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/UIImageView+WebCache.m
+END
+UIImage+WebP.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/UIImage+WebP.m
+END
+SDWebImagePrefetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/SDWebImagePrefetcher.h
+END
+UIImage+MultiFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/UIImage+MultiFormat.h
+END
+SDWebImageCompat.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/SDWebImageCompat.m
+END
+UIImage+GIF.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/UIImage+GIF.h
+END
+SDWebImagePrefetcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/SDWebImagePrefetcher.m
+END
+UIImage+MultiFormat.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/UIImage+MultiFormat.m
+END
+NSData+ImageContentType.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/NSData+ImageContentType.h
+END
+SDWebImageDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/SDWebImageDownloader.h
+END
+UIImage+GIF.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/UIImage+GIF.m
+END
+SDWebImageOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ruxinapp/!svn/ver/119/RuxinApp/IOS/RuxinApp/lib/SDWebImage/SDWebImageOperation.h
+END
